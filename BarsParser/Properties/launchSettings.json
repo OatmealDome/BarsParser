@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BarsParser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\100707563\\Documents\\Development\\Blitz\\romfs_420\\Sound\\Resource\\BgmShop.bars"
+    }
+  }
+}
